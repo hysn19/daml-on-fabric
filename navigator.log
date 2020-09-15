@@ -1,0 +1,6 @@
+11:05:55.105 [main] INFO  com.daml.navigator.config.Config$ - Loading SDK config file from /daml.yaml 
+11:05:55.108 [main] WARN  com.daml.navigator.config.Config$ - SDK config does not exist. Falling back to Navigator config file. 
+11:05:55.124 [main] ERROR user-facing-logs - No configuration file found!
+Please specify a configuration file and restart Navigator.
+Config file path was 'DefaultConfig(ui-backend.conf)'.
+Hint: use the create-config command to create a sample config file. 
